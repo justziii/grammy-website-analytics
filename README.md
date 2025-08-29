@@ -12,12 +12,21 @@ The final notebook showcases data cleaning, visualization, and interpretation of
 ---
 
 ## 🛠️ Tools & Libraries
-- Python  
-- Pandas (data wrangling & cleaning)  
-- Plotly (interactive visualizations)  
-- Jupyter Notebook  
+- **Python** → core programming language  
+- **Pandas** → data wrangling & analysis  
+- **Plotly** → interactive visualizations  
+- **Jupyter Notebook** → environment for running the analysis  
 
 ---
+
+## 📦 Dependencies
+All required Python packages are listed in `requirements.txt`.  
+Install them with:  
+
+```bash
+pip install -r requirements.txt
+
+
 
 ## 📊 Highlights
 - Compared **traffic distribution** between RecordingAcademy.com and GRAMMYs.com  
@@ -32,6 +41,5 @@ The final notebook showcases data cleaning, visualization, and interpretation of
    ```bash
    git clone https://github.com/justziii/grammy-website-analytics.git
    cd grammy-website-analytics
-
 
 
