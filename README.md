@@ -6,7 +6,7 @@ The final notebook showcases data cleaning, visualization, and interpretation of
 ---
 
 ## 📂 What’s Inside
-- **Grammys-Website-Analytics-Final.ipynb** → polished notebook with analysis (instructions and unused prompts removed).    
+- **Grammys-Website-Analytics-Final.ipynb** → polished notebook with analysis (instructions and unused prompts removed).  
 - **requirements.txt** → Python libraries required to run the notebook.  
 
 ---
@@ -19,6 +19,15 @@ The final notebook showcases data cleaning, visualization, and interpretation of
 
 ---
 
+## 📊 Highlights
+- Compared **traffic distribution** between RecordingAcademy.com and GRAMMYs.com  
+- Analyzed **user engagement metrics** (pages per session, bounce rate, average session duration)  
+- Identified **device trends** (desktop vs. mobile usage)  
+- Built clear visualizations to communicate insights  
+
+
+---
+
 ## 📦 Dependencies
 All required Python packages are listed in `requirements.txt`.  
 Install them with:  
@@ -26,15 +35,7 @@ Install them with:
 ```bash
 pip install -r requirements.txt
 
-
-
-## 📊 Highlights
-- Compared **traffic distribution** between RecordingAcademy.com and GRAMMYs.com  
-- Analyzed **user engagement metrics** (pages per session, bounce rate, average session duration)  
-- Identified **device trends** (desktop vs. mobile usage)  
-- Built clear visualizations to communicate insights  
-
----
+```
 
 ## 🚀 How to Run
 1. Clone the repository:
