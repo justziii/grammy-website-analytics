@@ -30,7 +30,8 @@ The final notebook showcases data cleaning, visualization, and interpretation of
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/grammys-website-analytics.git
-   cd grammys-website-analytics
+   git clone https://github.com/justziii/grammy-website-analytics.git
+   cd grammy-website-analytics
+
 
 
